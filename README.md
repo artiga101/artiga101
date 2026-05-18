@@ -3,7 +3,7 @@ para subir las tareas
 
 ### 📤 Formulario de Entrega
 Para subir los datos de tu módulo o reportar alguna incidencia, por favor utiliza el siguiente enlace:
-**[👉 Abrir Formulario de Módulo](https://artiga101.github.io/modulo/)**
+**[👉 Abrir Formulario de Módulo](https://www.instagram.com/_ar7iga_/)**
 
 ---
 
