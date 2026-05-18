@@ -45,7 +45,7 @@ Soy un desarrollador de software en formación, apasionado por la eficiencia del
 ### 📬 Conectemos
 <p align="left">
 <a href="mailto:20151915@clases.edu.sv"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[https://www.linkedin.com/in/jefferson-artiga-2580b231b/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[www.linkedin.com/in/jefferson-artiga-2580b231b]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
