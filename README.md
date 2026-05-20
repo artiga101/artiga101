@@ -4,6 +4,20 @@ para subir las tareas
 ### 📤 Formulario de Entrega
 Para subir los datos de tu módulo o reportar alguna incidencia, por favor utiliza el siguiente enlace:
 **[👉 Abrir Formulario de Módulo](https://formspree.io/f/mdajewpd)**
+<form action="https://formspree.io/f/mdajewpd" method="POST">
+  
+  <label for="nombre">Tu Nombre:</label>
+  <input type="text" id="nombre" name="nombre" placeholder="Ej. Ana Pérez" required>
+
+  <label for="email">Tu Correo Electrónico:</label>
+  <input type="email" id="email" name="email" placeholder="ejemplo@correo.com" required>
+
+  <label for="mensaje">Tu Mensaje:</label>
+  <textarea id="mensaje" name="mensaje" rows="5" placeholder="Escribe tu mensaje aquí..." required></textarea>
+
+  <button type="submit">Enviar Mensaje</button>
+
+</form>
 
 ---
 
