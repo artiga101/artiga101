@@ -6,13 +6,38 @@ Un repositorio dedicado a la gestión, entrega y control de tareas de los módul
 
 ### 📤 Zona de Pits: Entrega de Tareas e Incidencias
 
-> 💡 **Nota importante:** Para enviar los datos de tu módulo o reportar cualquier problema, utiliza nuestro centro de recepción oficial haciendo clic en el siguiente enlace.
+Elige **uno** de los siguientes métodos oficiales para enviar tus prácticas, códigos o reportar cualquier problema en la pista:
+
+#### ⚡ Método 1: Formulario Rápido (Formspree)
+Ideal para mensajes, reportar incidencias o enviar archivos únicos.
+> ⚠️ **Nota para archivos múltiples:** Si tu entrega consta de varios archivos separados (código, imágenes, PDF), mételos en una sola carpeta, **comprímela en formato `.zip` o `.rar`**, y sube ese único archivo comprimido a través del botón.
 
 <div align="center">
 
-[![¡Subir Tarea Aquí!](https://img.shields.io/badge/ENTREGAR_TAREA_AQUÍ-FF1801?style=for-the-badge&logo=formspree&logoColor=white&labelColor=000000)](https://formspree.io/f/mdajewpd)
+[![¡Subir Tarea Aquí!](https://img.shields.io/badge/ENTREGAR_TAREA_RÁPIDA-FF1801?style=for-the-badge&logo=formspree&logoColor=white&labelColor=000000)](https://formspree.io/f/mdajewpd)
 
-*Haz clic en el botón de arriba para abrir el formulario de entrega seguro.*
+</div>
+
+---
+
+#### 📂 Método 2: Control de Versiones Directo (Ecosistema Git)
+Ideal para subir múltiples archivos por separado y practicar el flujo de trabajo de un desarrollador real.
+
+1. Navega hasta la carpeta `tareas/` de este repositorio.
+2. Crea una subcarpeta con tu nombre en minúsculas y separado por guiones (Ej: `ana-perez/`).
+3. Sube dentro de esa carpeta todos los archivos correspondientes a la entrega de forma individual (ej. `.java`, `.py`, `.sql`, `.pdf`).
+4. Guarda los cambios creando un *Commit* o *Pull Request* con el mensaje: `Entrega Tarea X - Nombre Apellido`.
+
+---
+
+#### 📊 Método 3: Formulario de Carga Múltiple (Google Forms / Tally)
+Si prefieres usar un formulario externo pero necesitas adjuntar varios archivos por separado sin comprimir, utiliza este enlace alternativo:
+
+<div align="center">
+
+[![¡Subir Varios Archivos Aquí!](https://img.shields.io/badge/CARGA_MULTIPLE_DE_ARCHIVOS-0077B5?style=for-the-badge&logo=googleforms&logoColor=white)](TU_ENLACE_DE_GOOGLE_FORMS_O_TALLY)
+
+*Recuerda renombrar tus archivos con tu nombre y el número de tarea antes de subirlos.*
 
 </div>
 
@@ -46,7 +71,7 @@ Soy un desarrollador de software en formación, apasionado por la eficiencia del
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercelapp/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
