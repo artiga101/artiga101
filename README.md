@@ -1,35 +1,30 @@
-# modulo
-para subir las tareas
+# 🏎️ Full Speed into Software Development | ARtiGA
 
-### 📤 Formulario de Entrega
-Para subir los datos de tu módulo o reportar alguna incidencia, por favor utiliza el siguiente enlace:
-**[👉 Abrir Formulario de Módulo](https://formspree.io/f/mdajewpd)**
-<form action="https://formspree.io/f/mdajewpd" method="POST">
-  
-  <label for="nombre">Tu Nombre:</label>
-  <input type="text" id="nombre" name="nombre" placeholder="Ej. Ana Pérez" required>
-
-  <label for="email">Tu Correo Electrónico:</label>
-  <input type="email" id="email" name="email" placeholder="ejemplo@correo.com" required>
-
-  <label for="mensaje">Tu Mensaje:</label>
-  <textarea id="mensaje" name="mensaje" rows="5" placeholder="Escribe tu mensaje aquí..." required></textarea>
-
-  <button type="submit">Enviar Mensaje</button>
-
-</form>
+Un repositorio dedicado a la gestión, entrega y control de tareas de los módulos de desarrollo.
 
 ---
 
-# 🏎️ Full Speed into Software Development | ARtiGA
+### 📤 Zona de Pits: Entrega de Tareas e Incidencias
+
+> 💡 **Nota importante:** Para enviar los datos de tu módulo o reportar cualquier problema, utiliza nuestro centro de recepción oficial haciendo clic en el siguiente enlace.
+
+<div align="center">
+
+[![¡Subir Tarea Aquí!](https://img.shields.io/badge/ENTREGAR_TAREA_AQUÍ-FF1801?style=for-the-badge&logo=formspree&logoColor=white&labelColor=000000)](https://formspree.io/f/mdajewpd)
+
+*Haz clic en el botón de arriba para abrir el formulario de entrega seguro.*
+
+</div>
+
+---
 
 ### 👋 Sobre mí
 Soy un desarrollador de software en formación, apasionado por la eficiencia del código y la velocidad en la pista. Cuando no estoy optimizando una base de datos en **PostgreSQL**, probablemente me encuentres analizando la telemetría de la última carrera de **F1** o explorando mapas en **Roblox**.
 
-- 🔭 **Actualmente:** Perfeccionando mis habilidades en el **Bachillerato Técnico en Desarrollo de Software**.
-- ⚡ **Dato curioso:** Creo que programar es como una parada en boxes (pit stop); la precisión y la rapidez lo son todo.
-- 🗣️ **Idiomas:** `Español: Nativo` | `English: Intermediate`
-- 🎯 **Meta:** De El Salvador para el mundo, con la mirada puesta en el ecosistema tech internacional.
+* 🔭 **Actualmente:** Perfeccionando mis habilidades en el **Bachillerato Técnico en Desarrollo de Software**.
+* ⚡ **Dato curioso:** Creo que programar es como una parada en boxes (*pit stop*); la precisión y la rapidez lo son todo.
+* 🗣️ **Idiomas:** `Español: Nativo` | `English: Intermediate`
+* 🎯 **Meta:** De El Salvador para el mundo, con la mirada puesta en el ecosistema tech internacional.
 
 ---
 
@@ -47,20 +42,25 @@ Soy un desarrollador de software en formación, apasionado por la eficiencia del
 
 ---
 
-### 📊 Rendimiento en Pista (GitHub Stats)
+### 📊 Telemetría en Pista (GitHub Stats)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercelapp/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-### 📬 Conectemos
+### 📬 Conectemos en el Paddock
 <p align="left">
-<a href="mailto:20151915@clases.edu.sv"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[www.linkedin.com/in/jefferson-artiga-2580b231b]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:20151915@clases.edu.sv">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jefferson-artiga-2580b231b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
+
 > *"I don't know many people who can say they are living their dream, but I am."* — **Charles Leclerc** 🏎️💨
