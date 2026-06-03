@@ -1,6 +1,6 @@
 # 🏎️ Full Speed into Software Development | ARtiGA
 
-Un repositorio dedicado a la gestión, entrega y control de tareas de los módulos de desarrollo.
+Un repositorio dedicado a la gestión, entrega de tareas y control de recursos de los módulos de desarrollo de software.
 
 ---
 
@@ -43,6 +43,44 @@ Si prefieres usar un formulario externo pero necesitas adjuntar varios archivos 
 
 ---
 
+### 📚 Biblioteca de Telemetría (Materiales del Módulo)
+
+Todos los documentos, investigaciones y guías de clase organizados por categorías de ingeniería. Haz clic en cualquiera para abrir o descargar el recurso:
+
+#### 📈 1. Fundamentos y Gestión de Requerimientos
+* 📄 [Presentación: Introducción al Módulo 2.1](./recursos/modulo_2.1.docx) — *Competencia y objetivos de diseño con UML.*
+* 📄 [Guía A y B: El Rol del Analista](./recursos/A_y_B.docx) — *El analista como puente técnico y arquitecto de software.*
+* 📊 [Presentación: Análisis y Diseño de Sistemas](./recursos/Analisis_y_Diseno_de_Sistemas.pptx) — *Perspectiva del rol profesional y tipologías organizacionales.*
+* 📄 [Documento: Historia de UML y Requerimientos](./recursos/historia_uml_y_requerimientos.docx) — *La "guerra de métodos", "Los Tres Amigos" y clasificación URPS.*
+
+#### 📐 2. Modelado y Diagramas UML
+* 📊 [Presentación Completa: Diseño de Sistemas con UML](./recursos/Diseno_de_Sistemas_Informaticos_con_UML.pptx) — *Guía de modelado, diagramas estructurales y dinámicos.*
+* 📊 [Presentación: Casos de Uso en UML - Análisis Profundo](./recursos/Casos_de_Uso_en_UML_Analisis_Profundo.pptx) — *Captura de requerimientos desde la perspectiva del usuario.*
+* 📄 [Guía de Estudio: UML y Casos de Uso Avanzados](./recursos/uml_XD.docx) — *Actores, límites del sistema y plantillas de documentación escrita.*
+* 📊 [Presentación: Diagramas de Actividades (Forks, Joins y Decisiones)](./recursos/diagrama_de_actividades_forks_joins_desiciones.pptx) — *Lógica de control para modelar flujos y algoritmos.*
+* 📄 [Investigación Técnica: Modelado de Procesos Dinámicos](./recursos/Investigacion_Diagramas_de_Actividades_UML.docx) — *Análisis detallado de nodos de control y riesgos de bloqueo (deadlock).*
+
+#### 🗄️ 3. Arquitectura de Datos y Paradigmas (POO)
+* 📊 [Presentación: Atributos en el Modelado de Clases](./recursos/Atributos_en_el_Modelado_de_Clases.pptx) — *Anatomía de datos, visibilidad, atributos compuestos y derivados.*
+* 📄 [Investigación: Desarrollo de Software y BD Relacionales](./recursos/Investigacion_Profunda_Desarrollo_de_Software_y_Bases_de_Datos.docx) — *Pilares de la POO mapeados hacia el almacenamiento relacional (ORM).*
+* 📄 [Investigación: Arquitectura y Dinámica de Datos](./recursos/Investigacion_Exhaustiva_Arquitectura_de_Datos.docx) — *Ciclos de vida del dato, matrices de transición de estado y resiliencia.*
+* 📊 [Presentación: Maestría en Arquitectura de Datos](./recursos/Maestria_en_Arquitectura_de_Datos.pptx) — *Profundización en ACID, bases de datos activas, triggers y WAL.*
+
+#### 🎨 4. Experiencia de Usuario (UI/UX) y Prototipado
+* 📊 [Presentación: 10 Heurísticas de Usabilidad](./recursos/10_Heuristicas_de_Usabilidad.pptx) — *Principios de Jakob Nielsen para el diseño centrado en el usuario.*
+* 📄 [Reporte Académico: Principios de UI/UX](./recursos/nielsen_heuristicas_ux.docx) — *Buenas prácticas, violaciones comunes y escalas de severidad.*
+* 📊 [Presentación: Prototipado y Colaboración Técnica](./recursos/Prototipado_y_Colaboracion_Tecnica.pptx) — *Diferencias entre Wireframes y Mockups aplicados al flujo de GitHub.*
+
+#### ⚙️ 5. Metodologías de Desarrollo y Gestión
+* 📊 [Presentación: Introducción al Diseño de Sistemas](./recursos/Diseno_de_Sistemas_Informaticos.pptx) — *Comparativa de enfoques clásicos, orientados a objetos y ágiles.*
+* 📄 [Guía de Estudio: Actividad 3 - Cascada vs Ágil](./recursos/actividad_3.docx) — *Estructuras secuenciales contra iterativas y marcos de Scrum básico.*
+* 📄 [Reporte de Investigación: Adaptación Curricular Semana 13](./recursos/Investicion_Adaptacion_GitHub_Semana13.docx) — *Transición del diseño visual en Figma hacia el control de versiones en GitHub.*
+
+#### 📝 6. Crecimiento Profesional
+* 📄 [Documento: Autoevaluación de Desarrollo Personal](./recursos/autoevaluacionxdsdsd.docx) — *Métricas de productividad, habilidades blandas y plan de mejora continua.*
+
+---
+
 ### 👋 Sobre mí
 Soy un desarrollador de software en formación, apasionado por la eficiencia del código y la velocidad en la pista. Cuando no estoy optimizando una base de datos en **PostgreSQL**, probablemente me encuentres analizando la telemetría de la última carrera de **F1** o explorando mapas en **Roblox**.
 
@@ -71,7 +109,7 @@ Soy un desarrollador de software en formación, apasionado por la eficiencia del
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats.vercelapp/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
