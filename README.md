@@ -9,8 +9,8 @@ Un repositorio dedicado a la gestión, entrega de tareas y control de recursos d
 Elige **uno** de los siguientes métodos oficiales para enviar tus prácticas, códigos o reportar cualquier problema en la pista:
 
 #### ⚡ Método 1: Formulario Rápido (Formspree)
-Ideal para mensajes, reportar incidencias o enviar archivos únicos.
-> ⚠️ **Nota para archivos múltiples:** Si tu entrega consta de varios archivos separados (código, imágenes, PDF), mételos en una sola carpeta, **comprímela en formato `.zip` o `.rar`**, y sube ese único archivo comprimido a través del botón.
+Ideal para mensajes, reportar incidencias o enviar archivos únicos o solo texto.
+> ⚠️ **Nota:** Este formulario es ideal para comunicaciones rápidas.
 
 <div align="center">
 
@@ -30,12 +30,12 @@ Ideal para subir múltiples archivos por separado y practicar el flujo de trabaj
 
 ---
 
-#### 📊 Método 3: Formulario de Carga Múltiple (Google Forms / Tally)
-Si prefieres usar un formulario externo pero necesitas adjuntar varios archivos por separado sin comprimir, utiliza este enlace alternativo:
+#### 📊 Método 3: Formulario de Carga Múltiple (Google Forms)
+Si prefieres usar un formulario externo para adjuntar varios archivos (como tu código, imágenes y PDF comprimidos en un `.zip`), utiliza este enlace:
 
 <div align="center">
 
-[![¡Subir Varios Archivos Aquí!](https://img.shields.io/badge/CARGA_MULTIPLE_DE_ARCHIVOS-0077B5?style=for-the-badge&logo=googleforms&logoColor=white)](TU_ENLACE_DE_GOOGLE_FORMS_O_TALLY)
+[![¡Subir Varios Archivos Aquí!](https://img.shields.io/badge/CARGA_MULTIPLE_DE_ARCHIVOS-0077B5?style=for-the-badge&logo=googleforms&logoColor=white)](https://forms.google.com/)
 
 *Recuerda renombrar tus archivos con tu nombre y el número de tarea antes de subirlos.*
 
@@ -108,8 +108,8 @@ Soy un desarrollador de software en formación, apasionado por la eficiencia del
 ### 📊 Telemetría en Pista (GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercelapp/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiga101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiga101&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
