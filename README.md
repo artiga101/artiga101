@@ -35,11 +35,11 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
 
 ---
 
-### 📊 Telemetría en Pista
+### 📊 Telemetría en Pista (GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiga101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiga101&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercelapp/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
