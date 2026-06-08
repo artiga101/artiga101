@@ -63,10 +63,10 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
 ### 📬 Conectemos en el Paddock
 
 <p align="left">
-  <a href="mailto:20151915@clases.edu.sv">
+  <a href="https://mail.google.com/mail/?view=cm&to=20151915@clases.edu.sv&su=Contacto%20desde%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/jefferson-artiga-2580b231b/" target="_blank">
+  <a href="https://www.linkedin.com/in/jefferson-artiga-2580b231b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -76,5 +76,3 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=artiga101&color=FF1801&style=flat-square&label=Visitas+al+Paddock" alt="Profile views" />
 </div>
-
----
