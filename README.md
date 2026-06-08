@@ -35,12 +35,28 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
 
 ---
 
-### 📊 Telemetría en Pista (GitHub Stats)
+### 📊 Telemetría en Pista
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercelapp/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiga101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiga101&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### 🚨 Zona de Reportes y Quejas
+
+¿Encontraste algo que no funciona? ¿Tienes una sugerencia? Envíame un reporte directo, llega a mi correo automáticamente.
+
+<div align="center">
+
+[![Enviar Queja o Reporte](https://img.shields.io/badge/ENVIAR_REPORTE-FF1801?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](https://formspree.io/f/mdajewpd)
+
+*Todos los mensajes llegan directamente a `20151915@clases.edu.sv`*
+
+</div>
+
+> 💡 **¿Qué puedes reportar?** Bugs en el código, errores en la documentación, sugerencias de mejora o cualquier comentario sobre los proyectos.
 
 ---
 
@@ -54,6 +70,12 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=artiga101&color=FF1801&style=flat-square&label=Visitas+al+Paddock" alt="Profile views" />
+</div>
 
 ---
 
