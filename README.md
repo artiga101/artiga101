@@ -78,7 +78,3 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=artiga101&color=FF1801&style=flat-square&label=Visitas+al+Paddock" alt="Profile views" />
-</div>
