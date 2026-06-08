@@ -50,7 +50,7 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
 
 <div align="center">
 
-[![Enviar Queja o Reporte](https://img.shields.io/badge/ENVIAR_REPORTE-FF1801?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](https://formspree.io/f/mdajewpd)
+[![Enviar Queja o Reporte](https://img.shields.io/badge/ENVIAR_REPORTE-FF1801?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](https://formspree.io/f/mbdeogbb)
 
 *Todos los mensajes llegan directamente a `20151915@clases.edu.sv`*
 
