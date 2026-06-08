@@ -2,7 +2,7 @@
 
 # 🏎️ Full Speed into Software Development
 
-### `ARtiGA · Jefferson Artiga`
+### `AcRux · Jefferson Artiga`
 
 *"Programar es como un pit stop: la precisión y la rapidez lo son todo."*
 
