@@ -66,7 +66,7 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
   <a href="mailto:20151915@clases.edu.sv">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/jefferson-artiga-2580b231b" target="_blank">
+  <a href="https://www.linkedin.com/in/jefferson-artiga-2580b231b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
