@@ -35,6 +35,18 @@ Desarrollador de software en formación, apasionado por la eficiencia del códig
 
 ---
 
+### 📁 Archivos Subidos
+
+<div align="center">
+
+[![Archivos Subidos](https://img.shields.io/badge/📁_ARCHIVOS_SUBIDOS-FF1801?style=for-the-badge&logoColor=white&labelColor=000000)](artiga101.github.io/artiga101/archivos-subidos.html)
+
+*Explora todos los archivos del repositorio en tiempo real*
+
+</div>
+
+---
+
 
 ### 🚨 Zona de Reportes y Quejas
 
